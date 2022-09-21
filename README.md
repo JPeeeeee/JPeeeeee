@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/-ReactNative-blue?style=for-the-badge&logo=react" />
 </div>
 
-## Github Stats
 <div>
   <img height="174em" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPeeeeee&layout=compact&langs_count=6&theme=radical&count_private=true" />
 </div>
