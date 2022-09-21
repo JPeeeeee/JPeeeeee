@@ -1,4 +1,4 @@
-## Olá, meu nome é João Pedro Vieira Santos
+### Olá, meu nome é João Pedro Vieira Santos
 
 - ⚛️ Sou desenvolvedor Mobile em React Native
 - 📚 Atualmente estudando Mobile e um pouquinho de Front-end
