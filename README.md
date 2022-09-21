@@ -21,6 +21,22 @@
 
 ## 🛰Você pode me encontrar aqui!
 
+<div>
+  <a href="https://www.linkedin.com/in/paulo-mateus-luza-alves-69a73a162/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/paulo_mla/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/paulomateus.luzaalves/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://gitlab.com/TTeuZ" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+  </a>
+</div>
+<p align="center"> 
+
 <!---
 JPeeeeee/JPeeeeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
