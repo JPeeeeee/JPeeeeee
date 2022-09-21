@@ -31,7 +31,7 @@
 </div>
 
 <div>
-  <img src="https://64.media.tumblr.com/fe3e966760c8646a3adbd5ad63e7af6d/tumblr_pygdeeksA71ut1d6co1_540.gif" />
+  <img src="https://i.giphy.com/media/9tZc9Mzo9K0yOYx38U/giphy.webp" />
 </div>
 
 <!---
