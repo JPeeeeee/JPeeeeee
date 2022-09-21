@@ -29,7 +29,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-<p align="center"> 
 
 <!---
 JPeeeeee/JPeeeeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
