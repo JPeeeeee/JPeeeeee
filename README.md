@@ -1,4 +1,4 @@
-### Olá, meu nome é João Pedro Vieira Santos
+### Olá, meu nome é João Pedro Vieira Santos e eu sou...
 
 - 🍎 Estudante na Apple Developer Academy
 - ⚛️ Desenvolvedor Mobile em React Native
