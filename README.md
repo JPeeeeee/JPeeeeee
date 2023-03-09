@@ -1,7 +1,8 @@
 ### Olá, meu nome é João Pedro Vieira Santos
 
+- 🍎 Estudante na Apple Developer Academy
 - ⚛️ Desenvolvedor Mobile em React Native
-- 📚 Atualmente estudando Mobile e um pouquinho de Front-end
+- 📚 Atualmente estudando desenvolvimento mobile em Swift
 
 ## 🌊 Linguagens/Frameworks: 
 <div>
