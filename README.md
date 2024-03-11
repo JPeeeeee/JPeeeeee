@@ -24,7 +24,7 @@
 ## 🛰Você pode me encontrar aqui!
 
 <div>
-  <a href="https://www.linkedin.com/in/joão-pedro-vieira-santos-b4611b214/" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-v-santos-b4611b214/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/jp_eeeee/" target="_blank">
